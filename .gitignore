@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Results and output
-results/
-*.png
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
